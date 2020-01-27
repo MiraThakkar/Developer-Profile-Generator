@@ -1,0 +1,23 @@
+{
+  "name": "developer_profile_generator",
+  "version": "1.0.0",
+  "description": "AS A product manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiraThakkar/Developer-Profile-Generator.git"
+  },
+  "author": "Mira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiraThakkar/Developer-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/MiraThakkar/Developer-Profile-Generator#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.0.4"
+  }
+}
